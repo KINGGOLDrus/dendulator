@@ -1,0 +1,4 @@
+tests/misc
+*.exe
+*.dll
+*.bin
